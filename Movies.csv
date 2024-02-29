@@ -1,0 +1,101 @@
+S_No,Movie_Name,Actors,Director,Year
+1,OMG,Akshay Kumar ,Umesh Shukla,2012
+2,Baby,Akshay Kumar ,Neeraj Pandey,2015
+3,Sooryavanshi,Akshay Kumar ,Rohit Shetty,2021
+4,Student of the year ,Alia Bhatt,Karan Johar,2012
+5,Gully Boy,Alia Bhatt,Zoya Akhtar,2019
+6,Kalank,Alia Bhatt,Abhishek Verman,2019
+7,Ghajini,Amir khan ,A.R Murugados,2008
+8,Taare Zameen Par,Amir khan ,Amir Khan,2007
+9,3 Idiots,Amir khan ,Rajkumar Hirani,2009
+10,Kabhi Khushi Kabhi Gham,Amitabh Bachchan,Karan Johar,2001
+11,Sholay,Amitabh Bachchan,Ramesh Sippy,1975
+12,Piku,Amitabh Bachchan,Shoojit Sircar,2015
+13,Mr. and Mrs. Smith,Angelina Jolie,Doug Liman,2005
+14,Eternals,Angelina Jolie,Chaloe` Zhao,2021
+15,Gia,Angelina Jolie,Michael Cristofer,1998
+16,Jab Harry met Sejal,Anushka Sharma,Imtiaz Ali,2017
+17,Rab ne Banadi Jodi,Anushka Sharma,Aditya Chopra,2008
+18,Zero,Anushka Sharma,Aanand L. Rai,2018
+19,Mr. and Mrs. Smith,Brad pitt,Doug Liman,2005
+20,Troy,Brad pitt,Wolfgang Petersen,2004
+21,Once upon a time in Hollywood,Brad pitt,Quentin Tarantino,2019
+22,The Avengers,Chris Evans,Joss Whedon,2012
+23,The Captain America the first avenger,Chris Evans,Joe Johnston,2011
+24,Fantastic Four,Chris Evans,Tim Story,2005
+25,Thor,Chris Hemsworth ,Taika Waititi,2011
+26,Extraction ,Chris Hemsworth ,Sam Hargrave,2020
+27,Men in Black,Chris Hemsworth ,F. Gary Gray,2019
+28,XXX,Deepika Padukone ,Rob Cohen,2012
+29,Padmavat,Deepika Padukone ,Sanjay Leela Bhansali,2018
+30,Happy new Year,Deepika Padukone ,Farah Khan ,2014
+31,Jumanji Welcome to the jungle,Dwayne Johnson,Jake Kasdan,2017
+32,Fast and furious,Dwayne Johnson,David Leitch,2019
+33,BayWatch,Dwayne Johnson,Seth Gordan,2017
+34,War,Hrithik Rohshan ,Siddharth Anand,2019
+35,Kabhi Khushi Kabhie Gham,Hrithik Rohshan ,Karan Johar,2001
+36,Koi mil gya,Hrithik Rohshan ,Rakesh Roshan,2003
+37,Piku,Irfaan Khan ,Shoojit Sircar,2015
+38,Hindi Medium,Irfaan Khan ,Saket Chaudhary,2017
+39,Angrezi Medium,Irfaan Khan ,Homi Adajania,2020
+40,The Conjuring,Joey King,James Wan,2013
+41,Kissing booth 1,Joey King,Vince Marcello,2018
+42,Kissing booth 2,Joey King,Vince Marcello,2020
+43,Nightmare On Elm Street,Johny Deep ,Wes Craven,1984
+44,Pirates of the Caribbean,Johny Deep ,Gore Verbinski,2003
+45,Charlie and the chocolate factory,Johny Deep ,Tim Burton,2005
+46,Ek tha tiger,Katrina kaif,Kabir Khan,2012
+47,Zero,Katrina kaif,Aanand L. Rai,2018
+48,Dhoom3,Katrina kaif,Vijay Krishna Acharya,2013
+49,Speed,Keanu Reeves ,Jan de Bont,1994
+50,Matrix,Keanu Reeves ,"Lana Wachowski, Lilly Wachowski",1999
+51,John Wick ,Keanu Reeves ,Chad Stahelski,2014
+52,Inception,Leonardo Di Caprio,Christopher Nolan,2010
+53,Wolf of the wall street,Leonardo Di Caprio,Martin Scorsese,2013
+54,Once upon a time in hollywood,Leonardo Di Caprio,Quentin Tarantino,2019
+55,Titanic,Leonardo Di Caprio,James Cameron,1997
+56,Don,Priyanka choapara ,Farhan Akhtar,2006
+57,Sky is pink,Priyanka choapara ,Shonali Bose,2019
+58,Barfi,Priyanka choapara ,Anurag Basu,2012
+59,Yeh jawaani hai deewani,Ranbir Kappor ,Ayan Mukerji,2013
+60,Jagga Jasoos,Ranbir Kappor ,Anurag Basu,2017
+61,Barfi,Ranbir Kappor ,Anurag Basu,2012
+62,Padmavat,Ranveer Singh ,Sanjay Leela Bhansali,2018
+63,Simba,Ranveer Singh ,Rohit Shetty,2018
+64,Gully Boy,Ranveer Singh ,Zoya Akhtar,2019
+65,Iron Man ,Robert Downey Junior,Jon Favreau,2008
+66,Avengers,Robert Downey Junior,Joss Whedon,2012
+67,Dolittle,Robert Downey Junior,Stephen Gaghan,2020
+68,Avengers : Endgame,Robert Downey Junior,Anthony Russo,2019
+69,Free Guy,Ryan Reynolds,Shawn Levy,2021
+70,Green Lantern ,Ryan Reynolds,Martin Campbell,2011
+71,Deadpool,Ryan Reynolds,Tim Miller,2016
+72,Ready,Salman khan ,Anees Bazmee,2011
+73,Radhe ,Salman khan ,Prabhu Deva,2021
+74,Bajrangi Bhaijaan,Salman khan ,Kabir Khan,2015
+75,Black Widow,Scarlette Johanson ,Cate Shortland,2021
+76,Lucy,Scarlette Johanson ,Luc Besson,2014
+77,Avenger ,Scarlette Johanson ,Joss Whedon,2012
+78,Dil wale dhulaniya le jaynge ,Shah Rukh Khan,Aditya Chopra,1995
+79,Raees,Shah Rukh Khan,Rahul Dholakia,2017
+80,Jab harry met sejal,Shah Rukh Khan,Imtiaz Ali,2017
+81,Veer Zaara,Shah Rukh Khan,Yash Chopra,2004
+82,Saaho,Sharadha kapoor,Sujeeth,2019
+83,Half Girlfriend ,Sharadha kapoor,Mohit Suri,2017
+84,Baghi,Sharadha kapoor,Sabbir Khan,2016
+85,Heropanti,Tiger Shroff,Sabbir Khan,2014
+86,War,Tiger Shroff,Siddharth Anand,2019
+87,Baghi,Tiger Shroff,Sabbir Khan,2016
+88,Mission Impossible ,Tom Cruise,Brian De Palma,1996
+89,Cocktail,Tom Cruise,Roger Donaldson,1988
+90,Knight and day,Tom Cruise,James Mangold,2010
+91,Udham Sing,Vicky Kaushal,Shoojit Sircar,2021
+92,Uri,Vicky Kaushal,Aditya Dhar,2019
+93,Manmarziyaan,Vicky Kaushal,Anurag Kashyap,2018
+94,Fast and furious ,Vin Diesel ,Rob Cohen,2001
+95,XXX,Vin Diesel ,Rob Cohen,2002
+96,Bloodshot,Vin Diesel ,David S F Wilson,2020
+97,The pursuit of happiness,Will Smith ,Gabriele Muccino,2006
+98,I am Legend,Will Smith ,Francis Lawrence,2007
+99,Aladin,Will Smith ,Guy Ritchie,2019
+100,Men in black ,Will Smith ,Barry Sonnenfeld,1997
